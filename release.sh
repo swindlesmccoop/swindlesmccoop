@@ -9,7 +9,7 @@ cd release
 
 rm -rf docs/ 1.jpg data_e.txt README.md .git/
 
-echo PLEASE VISIT "https://swindlesmccoop.github.io/P4GPC-Randomizer/#instructions FOR INSTRUCTIONS!" > INSTRUCTIONS.txt
+echo PLEASE VISIT "https://swindlesmccoop.xyz/P4GPC-Randomizer/#instructions FOR INSTRUCTIONS!" > INSTRUCTIONS.txt
 
 cd 'Unstable Features'
 mv readme.md readme.txt
