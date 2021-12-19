@@ -1,0 +1,3 @@
+unlink $HOME/wallpaper.jpg
+link $(find $HOME/images/wallpapers -type f | shuf -n 1) $HOME/wallpaper.jpg
+wal -i $HOME/wallpaper.jpg > /dev/null
