@@ -1,1 +1,1 @@
-### [Visit my website](https://swindlesmccoop.xyz/)!
+# All development moved to [CBPS Git](https://git.cbps.xyz/swindlesmccoop)
