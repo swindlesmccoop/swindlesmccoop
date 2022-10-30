@@ -1,1 +1,1 @@
-# All development moved to [CBPS Git](https://git.cbps.xyz/swindlesmccoop)
+## Please visit [my website](https://swindlesmccoop.xyz).
