@@ -1,1 +1,1 @@
-## Please visit [my website](https://swindlesmccoop.xyz).
+## Please visit [my website](https://swindlesmccoop.github.io).
